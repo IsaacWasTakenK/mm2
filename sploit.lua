@@ -3434,7 +3434,7 @@ local function NHAQOW_fake_script() -- Fake Script: StarterGui.YARHM.Murder Myst
 		return predictedPosition
 	end
 	
-	loadstring(game:HttpGet('https://pastebin.com/raw/Gicf3NU8'))() -- two versions of esp incase the other one breaks fuck nikilis :sob:
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/IsaacWasTakenK/mm2/main/es.lua'))() -- two versions of esp incase the other one breaks fuck nikilis :sob:
 	
 	
 	task.spawn(function()
