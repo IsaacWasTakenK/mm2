@@ -1,4 +1,4 @@
--- MM2SPLOIT 1.17.2
+-- YARHM 1.17.2
 
 if not game:IsLoaded() then
 	game:GetService("StarterGui"):SetCore("SendNotification", {
@@ -3434,7 +3434,7 @@ local function NHAQOW_fake_script() -- Fake Script: StarterGui.YARHM.Murder Myst
 		return predictedPosition
 	end
 	
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/IsaacWasTakenK/mm2/main/es.lua'))() -- two versions of esp incase the other one breaks fuck nikilis :sob:
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/saed563/mm2/main/es.lua'))() -- two versions of esp incase the other one breaks fuck nikilis :sob:
 	
 	
 	task.spawn(function()
